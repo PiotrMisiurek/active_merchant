@@ -1,3 +1,7 @@
+# THIS FORK
+
+This fork is created to implement integration for polish payment provider transferuj.pl
+
 # Active Merchant
 
 Active Merchant is an extraction from the e-commerce system [Shopify](http://www.shopify.com).
